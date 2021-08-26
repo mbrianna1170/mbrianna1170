@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @mbrianna1170
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on...not sure yet! 
-- 📫 How to reach me - just message for email :) 
+- 👋 Hi, I’m Bri!
+- 🌱 Full Stack Web Developer 
+- 📫 How to reach me - millerbri.08@yahoo.com
 
 <!---
 mbrianna1170/mbrianna1170 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
